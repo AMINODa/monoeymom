@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://AMINODa.github.io/monoeymom/sitemap.xml
